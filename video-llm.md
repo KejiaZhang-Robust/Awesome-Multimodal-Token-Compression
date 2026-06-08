@@ -1,5 +1,13 @@
 
 <details open>
+<summary><strong>2026 Video</strong></summary>
+
+| **Title & Authors** | **Areas** | **Tags** | **Links** |
+| --- | --- | --- | :---: |
+|  [![Arxiv](https://img.shields.io/badge/arXiv-2026\.05-red)]() <br>[LRCP: Low-Rank Compressibility Guided Visual Token Pruning for Efficient LVLMs](https://arxiv.org/abs/2605.15621)<br>Hongyu Lu, Feng Zhang, Wenwei Jin, Huanling Hu, Tianjun Shi, Shikai Jiang, Yao Hu, Jiawei Li |  [![Area](https://img.shields.io/badge/Image--LLM-purple)]() [![Area](https://img.shields.io/badge/Video--LLM-purple)]() |  [![Cost](https://img.shields.io/badge/Training--Free-yellow)]() |  [Paper](https://arxiv.org/abs/2605.15621)<br> |
+</details>
+
+<details open>
 <summary><strong>2025 Video</strong></summary>
 
 | **Title & Authors** | **Areas** | **Tags** | **Links** | 
